@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(495,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(496,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Scanning sources for module dependencies...
+  Main.cpp
+C:\Users\ASUS\OneDrive\Desktop\Lecture2\GLProject\Main.cpp(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ASUS\OneDrive\Desktop\Lecture2\GLProject\Ball.cpp(148,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\OneDrive\Desktop\Lecture2\GLProject\Main.cpp(41,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\OneDrive\Desktop\Lecture2\GLProject\Main.cpp(42,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\OneDrive\Desktop\Lecture2\GLProject\Main.cpp(46,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\OneDrive\Desktop\Lecture2\GLProject\Main.cpp(47,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\OneDrive\Desktop\Lecture2\GLProject\Main.cpp(48,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\OneDrive\Desktop\Lecture2\GLProject\Main.cpp(49,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\OneDrive\Desktop\Lecture2\GLProject\Main.cpp(200,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\OneDrive\Desktop\Lecture2\GLProject\Main.cpp(202,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  GLProject.vcxproj -> C:\Users\ASUS\OneDrive\Desktop\Lecture2\x64\Debug\Lecture2.exe
